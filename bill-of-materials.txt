@@ -1,0 +1,5 @@
+
+Amount	Description						Reichelt OrderNo.	Price
+1	Pin Header, 8-pin, Pitch Spacing: 0.1" (2.54mm)		SL 1X36G 2,54		0.14 €
+1	2x3 Connection Header					WSL 6G			0.16 €
+1	2x5 Connection Header					WSL 10G			0.08 €
